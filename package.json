@@ -51,7 +51,7 @@
     "dist"
   ],
   "dependencies": {
-    "@pistoiahelm/react-hwe-deps": "^1.5.3",
+    "react-hwe-deps": "^1.5.4",
     "reactjs-popup": "^1.5.0",
     "styled-components": "^5.1.1"
   }
